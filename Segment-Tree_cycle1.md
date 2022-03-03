@@ -1057,5 +1057,4 @@ int main() {
 
 - [VNOI - Educational Segment Tree Contest](https://oj.vnoi.info/contest/segtree)
 - [Codeforces - Segment Tree Problems](https://codeforces.com/blog/entry/22616)
-- [Codeforces - ITMO Academy: pilot course](https://codeforces.com/edu/course/2)
 - [VOJ - Blogspot Segment Tree](http://vnspoj.blogspot.com/p/blog-page_96.html)
